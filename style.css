@@ -419,6 +419,10 @@ nav.show div.icon-close {
   background: var(--base-color);
 }
 
+.swiper-wrapper {
+  padding-bottom: 30px;
+}
+
 /*====  CONTACT ============================ */
 #contact .grid {
   gap: 4rem;
