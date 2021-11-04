@@ -104,7 +104,7 @@ body {
 }
 
 .section {
-  padding: calc(5rem + var(--header-height)) 0;
+  padding: calc(1rem + var(--header-height)) 0;
 }
 
 .section .title {
@@ -275,6 +275,7 @@ nav.show div.icon-close {
 
 #home .image {
   position: relative;
+  max-width: 21rem;
 }
 
 #home .image::before {
@@ -290,11 +291,12 @@ nav.show div.icon-close {
 
 #home .image img {
   position: relative;
-  right: 2.93rem;
+  right: 0.5rem;
 }
 #home .image img,
 #home .image::before {
   border-radius: 0.25rem;
+  position: center;
 }
 
 #home .text {
@@ -308,6 +310,7 @@ nav.show div.icon-close {
 
 #home .text p {
   margin-bottom: 2rem;
+  padding: 1rem;
 }
 
 /*====== ABOUT =========*/
@@ -337,6 +340,7 @@ nav.show div.icon-close {
 
 #about .video iframe {
   position: relative;
+  max-width: 30rem;
 }
 
 #about .video iframe,
