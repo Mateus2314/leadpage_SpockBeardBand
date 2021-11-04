@@ -13,7 +13,7 @@
 
 ## 🚀 Technologies
 
-This project was developed with the technologies:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
@@ -32,7 +32,7 @@ Utilities
 
 ## 💻 Project
 
-SpocksBeard Leadpage band is a responsive One Page format page for use on a variety of devices. Sections used in the project: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer. 
+SpocksBeard Leadpage band is a responsive One Page format page adapted to different devices. Sections used in the project: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer. 
 
 ## 🔖 Layout
 
@@ -44,4 +44,4 @@ The project can be viewed at this link: [SpocksBeardPage](https://mateus2314.git
 
 ---
 
-Coding by Mateus De La Fuente Cezar in Rocketseat exercise
+Code by Mateus De La Fuente Cezar in Rocketseat exercise
