@@ -1,8 +1,3 @@
-﻿# leadpages_for_SpocksBeard_Band
- 
-#Web page development exercise using HTML5, CSS3 and JAVASCRIPT.
-
-
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
